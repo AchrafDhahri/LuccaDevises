@@ -1,6 +1,0 @@
-D:\Lucca\LuccaDevises\LuccaDevises\obj\Debug\LuccaDevises.csproj.CoreCompileInputs.cache
-D:\Lucca\LuccaDevises\LuccaDevises\bin\Debug\LuccaDevises.exe.config
-D:\Lucca\LuccaDevises\LuccaDevises\bin\Debug\LuccaDevises.exe
-D:\Lucca\LuccaDevises\LuccaDevises\bin\Debug\LuccaDevises.pdb
-D:\Lucca\LuccaDevises\LuccaDevises\obj\Debug\LuccaDevises.exe
-D:\Lucca\LuccaDevises\LuccaDevises\obj\Debug\LuccaDevises.pdb
